@@ -1,0 +1,13 @@
+es测试项目
+
+运行方式
+php src/index.php
+
+可用方法
+ index
+ createIndex
+ get
+ getSource
+ search
+
+具体实现在 src/Core/EsDemo.php
