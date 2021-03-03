@@ -1,5 +1,5 @@
 {
-    "name": "songyue/es",
+    "name": "songyue/es-test",
     "require-dev": {
         "elasticsearch/elasticsearch": "^7.11"
     },
